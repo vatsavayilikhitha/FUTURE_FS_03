@@ -4,7 +4,7 @@ A modern Netflix-inspired streaming platform redesign built with **Next.js**, **
 
 ## 🎬 Live Demo
 
-**Deployed on Vercel**: [future-fs-03.vercel.app](https://future-fs-03.vercel.app)
+**Deployed on Vercel**: [future-fs-03.vercel.app]([https://future-fs-03.vercel.app](https://future-fs-03-indol.vercel.app))
 
 ---
 
@@ -309,9 +309,9 @@ GitHub: [vatsavayilikhitha](https://github.com/vatsavayilikhitha)
 
 ## 🔗 Links
 
-- **Live Site**: https://future-fs-03.vercel.app
+- **Live Site**: [https://future-fs-03.vercel.app](https://future-fs-03-indol.vercel.app)
 - **GitHub Repository**: https://github.com/vatsavayilikhitha/FUTURE_FS_03
-- **Vercel Dashboard**: https://vercel.com/dashboard
+- **Vercel Dashboard**: [https://vercel.com/dashboard](https://vercel.com/vatsavayi-likhithas-projects/future-fs-03)
 
 ---
 
